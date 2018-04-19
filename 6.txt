@@ -1,0 +1,46 @@
+the result value is 42
+/l.exe
+the result value is 28
+/run.exe
+the result value is 28
+/run.exe
+the result value is 29
+/ly.exe
+the result value is 28
+/ly.exe
+the result value is 28
+/run.exe
+the result value is 28
+/run.exe
+the result value is 28
+/ly.exe
+the result value is 28
+/ly.exe
+the result value is 5
+/run.exe
+the result value is 5
+/run.exe
+/run.exe
+the result value is 5
+/run.exe
+the result value is 5
+/run.exe
+the result value is 42
+/run.exe
+the result value is 28
+/run.exe
+the result value is 42
+/ly.exe
+the result value is 28
+/ly.exe
+the result value is 28
+/ly.exe
+the result value is 28
+/ly.exe
+the result value is 28
+/ly.exe
+the result value is 28
+/run.exe
+the result value is 42
+/run.exe
+the result value is 42
